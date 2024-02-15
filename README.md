@@ -1,4 +1,4 @@
 # PythonStorageConverter
-A python script to convert digital storage formats.
+A python script to convert digital storage sizes.
 
 From Bytes to Petabytes
